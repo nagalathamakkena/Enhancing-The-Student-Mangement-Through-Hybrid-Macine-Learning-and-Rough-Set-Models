@@ -1,5 +1,4 @@
 # Enhancing-The-Student-Mangement-Through-Hybrid-Macine-Learning-and-Rough-Set-Models - Project 1
-# Enhancing Student Management Through Machine Learning and Rough Set Models
 
 ## Project Overview
 This project uses Machine Learning and Rough Set Theory to analyze student data, identify performance patterns, and support data-driven educational decisions.
