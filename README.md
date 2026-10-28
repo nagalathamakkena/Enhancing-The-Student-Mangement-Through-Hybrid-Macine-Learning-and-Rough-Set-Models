@@ -1,1 +1,1 @@
-# Enhancing-The-Student-Mangement-Through-Hybrid-Macine-Learning-and-Rough-Set-Models - Projec 1
+# Enhancing-The-Student-Mangement-Through-Hybrid-Macine-Learning-and-Rough-Set-Models - Project 1
